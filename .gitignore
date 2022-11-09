@@ -1,0 +1,4 @@
+/target
+*.sys
+drv/*
+output/*

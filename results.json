@@ -1,0 +1,2908 @@
+[
+  {
+    "name": "drv\\1394.inf_amd64_a08737ea39f5790b\\1394ohci.sys",
+    "hash": "3d6e0579821bfa91b7f0a6e6ddc6e03bd3389202ad1a079b825d18d2a76250a0",
+    "found": [
+      {
+        "va": "0x000000000003f53e",
+        "hint": 1433,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x000000000003f796",
+        "hint": 1431,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\acpi.inf_amd64_064004ff9d679793\\acpi.sys",
+    "hash": "d95dfd8e8fbd35cdedc51157e8e6390b1881946fa22279231fc15c9a5e7eed7b",
+    "found": [
+      {
+        "va": "0x000000000008df12",
+        "hint": 1434,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\acxhdaudiop.inf_amd64_057041babef23c17\\AcxHdAudio.sys",
+    "hash": "76a45cb8c6760ad2af92d1c0ed36b9e1cd6acf67507fe85f0169193fecdc47d6",
+    "found": [
+      {
+        "va": "0x0000000000021660",
+        "hint": 1436,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\amdgpio2.inf_amd64_808fe94735c4c6b3\\amdgpio2.sys",
+    "hash": "46a53925baa34fa9d87e7c3157504a4557d81cd8b8608e7ab6caf02f482f7792",
+    "found": [
+      {
+        "va": "0x0000000000009290",
+        "hint": 1268,
+        "name": "MmMapIoSpace"
+      }
+    ]
+  },
+  {
+    "name": "drv\\amdgpio2.inf_amd64_c72fc3523c1372d0\\amdgpio2.sys",
+    "hash": "7e514410f2d87b54ae8df07002fbb154a28d2833495b4529b8d917e8dc28dfd0",
+    "found": [
+      {
+        "va": "0x000000000000a394",
+        "hint": 1317,
+        "name": "MmMapIoSpace"
+      }
+    ]
+  },
+  {
+    "name": "drv\\amdgpio3.inf_amd64_bb3599d0d57c5b6a\\amdgpio3.sys",
+    "hash": "e207002d13cd93817bc976c9a54190152e017a716dc08554a8a69d29947ff9a1",
+    "found": [
+      {
+        "va": "0x0000000000007260",
+        "hint": 1155,
+        "name": "MmMapIoSpace"
+      }
+    ]
+  },
+  {
+    "name": "drv\\amdi2c.inf_amd64_d7ae71f8eb52c084\\amdi2c.sys",
+    "hash": "387811d57def06c9736d9f0bab0dfb0f83dbab19e5489bf9a6dcdcbd682dd8fe",
+    "found": [
+      {
+        "va": "0x000000000000f232",
+        "hint": 1269,
+        "name": "MmMapIoSpaceEx"
+      },
+      {
+        "va": "0x000000000000f198",
+        "hint": 1271,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\amdpsp.inf_amd64_db1b2556e686c32f\\amdpsp.sys",
+    "hash": "0a3af18439b6bb4af119c8020a3d0220ed6cc8ae04e20032f846e77777700a0a",
+    "found": [
+      {
+        "va": "0x000000000001e372",
+        "hint": 1113,
+        "name": "MmMapIoSpace"
+      },
+      {
+        "va": "0x000000000001e5e8",
+        "hint": 1115,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\amdsbs.inf_amd64_e2a1e49127fb17ef\\amdsbs.sys",
+    "hash": "71c7e7e5aa74596a6725d8f70f1de9a0c63d3c3e120d9ccf8a508854ac340a23",
+    "found": [
+      {
+        "va": "0x000000000006422e",
+        "hint": 1115,
+        "name": "MmMapIoSpace"
+      }
+    ]
+  },
+  {
+    "name": "drv\\amdtools.inf_amd64_1ba3805732b165ee\\AmdTools64.sys",
+    "hash": "eee1fb0995f1916820e25d6b4ee03ed7276ab66894f9654d30e6c33e759a0011",
+    "found": [
+      {
+        "va": "0x00000000000145d4",
+        "hint": 1330,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x0000000000014638",
+        "hint": 1327,
+        "name": "MmMapIoSpace"
+      }
+    ]
+  },
+  {
+    "name": "drv\\asmbsw.inf_amd64_44f874e891b6a0db\\Io\\AsIO64.sys",
+    "hash": "0ee5067ce48883701824c5b1ad91695998916a3702cf8086962fbe58af74b2d6",
+    "found": [
+      {
+        "va": "0x00000000000050ea",
+        "hint": 1305,
+        "name": "ZwMapViewOfSection"
+      }
+    ]
+  },
+  {
+    "name": "drv\\athw8x.inf_amd64_55014eff4ceefbdf\\athw8x.sys",
+    "hash": "de129e570c85ee8aae8084b40f4e32766b4b789a2eed81e46311712b0826053d",
+    "found": [
+      {
+        "va": "0x0000000000422d92",
+        "hint": 1113,
+        "name": "MmMapIoSpace"
+      },
+      {
+        "va": "0x0000000000423120",
+        "hint": 1115,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\b57nd60a.inf_amd64_77a731ab08be20a5\\b57nd60a.sys",
+    "hash": "5533751d721c6660b474bfc240a0e88d38c667838e4a8a09e4fce690a52ebf54",
+    "found": [
+      {
+        "va": "0x0000000000080820",
+        "hint": 2554,
+        "name": "ZwMapViewOfSection"
+      },
+      {
+        "va": "0x0000000000080630",
+        "hint": 1307,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x0000000000080558",
+        "hint": 1304,
+        "name": "MmMapIoSpace"
+      }
+    ]
+  },
+  {
+    "name": "drv\\basicdisplay.inf_amd64_fc93ae411c02f280\\BasicDisplay.sys",
+    "hash": "a2ebddb0426d6e92744a3679b29ca08a9302295177ff5e02601d9181d4cb13cb",
+    "found": [
+      {
+        "va": "0x00000000000076aa",
+        "hint": 1434,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\basicrender.inf_amd64_ed345fdc37d65139\\BasicRender.sys",
+    "hash": "c17c5fc2658ce24b187ef8e57bcd91adb0226b03edf97c468528212425bc89b1",
+    "found": [
+      {
+        "va": "0x000000000000b97c",
+        "hint": 1436,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\bcmdhd64.inf_amd64_e0bae6831f60ea5f\\bcmdhd63.sys",
+    "hash": "bb19dd1307eacd14895eb11cc877a1ddd8722a6b0eccf0b184804eec6db3ce6c",
+    "found": [
+      {
+        "va": "0x000000000016da42",
+        "hint": 1167,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\bcmwdidhdpcie.inf_amd64_977dcc915465b0e9\\bcmpciedhd63.sys",
+    "hash": "8724a7c3cecb9b1ecb597841823253ed67f6b840f5ca97b761e157808d3e2b3d",
+    "found": [
+      {
+        "va": "0x00000000005016fa",
+        "hint": 1247,
+        "name": "MmMapIoSpace"
+      },
+      {
+        "va": "0x00000000005015c8",
+        "hint": 1250,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\bth.inf_amd64_92b0d010136c3bda\\bthport.sys",
+    "hash": "6a922d55dfb8ad349b7ebeb5237203caa48ea7e9b56143121c5b752e7005f2f7",
+    "found": [
+      {
+        "va": "0x0000000000113bde",
+        "hint": 1436,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\bthpan.inf_amd64_b06c3bc32f7db374\\bthpan.sys",
+    "hash": "c39e471bd757ca12635f283ffc4407989447739d36830e81e8dd3e63e363b3d7",
+    "found": [
+      {
+        "va": "0x000000000001e78e",
+        "hint": 1433,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\c7xxphone.inf_amd64_4732a16017f7bb26\\VT64\\C7xPHNV6.sys",
+    "hash": "b106541b42c85b2f83183b3664df26167f981bba38ab68500bd593914c742ed9",
+    "found": [
+      {
+        "va": "0x000000000000e678",
+        "hint": 861,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\c7xxphone.inf_amd64_4732a16017f7bb26\\W764\\C7xPHN76.sys",
+    "hash": "276bce62512333c37eee4fa226801a209792295e901cf3151c24ba37db18eace",
+    "found": [
+      {
+        "va": "0x000000000000d698",
+        "hint": 976,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\c7xxphone.inf_amd64_4732a16017f7bb26\\XP64\\C7xPHNX6.sys",
+    "hash": "b72985177b62f5dc6f05f98fa81169f00c9178686fdc89ba64f7110bc0c4efe0",
+    "found": [
+      {
+        "va": "0x000000000000e66a",
+        "hint": 722,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\cht4sx64.inf_amd64_3a69b9b79f49eb50\\cht4sx64.sys",
+    "hash": "5a7fd2d58c433b9b498a1b37a2f2d877061215360d8e6a752601f2ed4f283a8f",
+    "found": [
+      {
+        "va": "0x0000000000059b56",
+        "hint": 373,
+        "name": "ZwMapViewOfSection"
+      }
+    ]
+  },
+  {
+    "name": "drv\\cht4vx64.inf_amd64_b03448ba0b72ec47\\cht4vx64.sys",
+    "hash": "83e2c81274ddbe695ef845e541f7a2db60ef5e195ae14facdeeebd30c0ef4e67",
+    "found": [
+      {
+        "va": "0x00000000001c26dc",
+        "hint": 1323,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\corsairgamingaudio.inf_amd64_05fbf83af68e4a90\\amd64\\CorsairGamingAudio64.sys",
+    "hash": "a9be099b7a5f590d95bfd4973d873e59d92b7e3560bf4f011f4d4eb8d0c7d92d",
+    "found": [
+      {
+        "va": "0x000000000000e3f6",
+        "hint": 1320,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\cpuz_x64.sys",
+    "hash": "3871e16758a1778907667f78589359734f7f62f9dc953ec558946dcdbe6951e3",
+    "found": [
+      {
+        "va": "0x00000000000060d8",
+        "hint": 685,
+        "name": "MmMapIoSpace"
+      }
+    ]
+  },
+  {
+    "name": "drv\\dc21x4vm.inf_amd64_3294fc34256dbb0e\\dc21x4vm.sys",
+    "hash": "f3a48d925d234052602ae51c5873ee8661b220efe036b2d9556a5dc7e9a4e320",
+    "found": [
+      {
+        "va": "0x00000000000184ec",
+        "hint": 1433,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\droidcam.inf_amd64_c14a386568f95d09\\droidcam.sys",
+    "hash": "4faf45a52c2fe736b7656d306ad2a6bc1876c12fdbb20663e2f866f0d914bde3",
+    "found": [
+      {
+        "va": "0x0000000000007382",
+        "hint": 976,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x00000000000073e8",
+        "hint": 1860,
+        "name": "ZwMapViewOfSection"
+      }
+    ]
+  },
+  {
+    "name": "drv\\droidcamvideo.inf_amd64_47e18363cbf3dfe0\\droidcamvideo.sys",
+    "hash": "381fbd51b799ba14e479b26c868fbe1a210e4d11285caf300873055f050c9b4f",
+    "found": [
+      {
+        "va": "0x000000000000941e",
+        "hint": 1162,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x00000000000094ec",
+        "hint": 2176,
+        "name": "ZwMapViewOfSection"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ehstortcgdrv.inf_amd64_5cb0c23f45dac01c\\EhStorTcgDrv.sys",
+    "hash": "514a0687d2abe6c52d6bff8f0f5e47dd77ebeedc4e6c6539b05bd0ec27b6704d",
+    "found": [
+      {
+        "va": "0x000000000001848a",
+        "hint": 1433,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\errdev.inf_amd64_616c5168a5b1807a\\errdev.sys",
+    "hash": "bf14db2762b48ace54977e98dc2a4060b8b1122b58fdefbb4c84546abeb410a5",
+    "found": [
+      {
+        "va": "0x000000000000625c",
+        "hint": 1431,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\fdc.inf_amd64_7534987814b257b2\\fdc.sys",
+    "hash": "26bc9c2f1d42ce5bef55e98dc0da557f09b747186580c796003cf84229f6d151",
+    "found": [
+      {
+        "va": "0x0000000000009844",
+        "hint": 1431,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\flpydisk.inf_amd64_acb1691126c93472\\flpydisk.sys",
+    "hash": "1534a840c56912d34dec8f487683c0a782070a89726bf87dfaaf7f953a18a1da",
+    "found": [
+      {
+        "va": "0x00000000000068be",
+        "hint": 1433,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\gameflt.inf_amd64_b44010056405ff4d\\gameflt.sys",
+    "hash": "17d8eb5c379d1b66cbae5c82d6445953d6fe5ad1752af167dcc7cb1f08a5bb2c",
+    "found": [
+      {
+        "va": "0x0000000000009cd2",
+        "hint": 1434,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\hdaudbus.inf_amd64_252861ee5d4a7765\\hdaudbus.sys",
+    "hash": "8500b5163642df294e4039592a8fd959470989b32c1c42735583b25a67dd2eb7",
+    "found": [
+      {
+        "va": "0x0000000000017cb4",
+        "hint": 1434,
+        "name": "MmMapIoSpaceEx"
+      },
+      {
+        "va": "0x0000000000017d4a",
+        "hint": 1436,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\hdxmsi.inf_amd64_829f60847dabdd83\\RTKVHD64.sys",
+    "hash": "4e87db3f9f53b56a75a685d7b7593c244923d8b759a07db9de3c812cfaecc97b",
+    "found": [
+      {
+        "va": "0x0000000000597930",
+        "hint": 861,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x0000000000597de4",
+        "hint": 859,
+        "name": "MmMapIoSpace"
+      }
+    ]
+  },
+  {
+    "name": "drv\\heci.inf_amd64_f8de8314845ca592\\x64\\TeeDriverW8x64.sys",
+    "hash": "ecc894fcf4c3f2364883ba55242c432e9e416d93e71b67985df24ecb39f9bac4",
+    "found": [
+      {
+        "va": "0x0000000000030848",
+        "hint": 1294,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x0000000000030704",
+        "hint": 1291,
+        "name": "MmMapIoSpace"
+      }
+    ]
+  },
+  {
+    "name": "drv\\hidbth.inf_amd64_76fb27776958e530\\hidbth.sys",
+    "hash": "7704f6f7716d9df1c3cd81a228b361574a5783dc89a8dfe9b27318ebe3131345",
+    "found": [
+      {
+        "va": "0x0000000000019972",
+        "hint": 1433,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\hidir.inf_amd64_7bf4a320e4ec8b3d\\hidir.sys",
+    "hash": "6089305af73cc584963865482448cd5ca4252ec9bd3e72af16d45e4f95c3ebf2",
+    "found": [
+      {
+        "va": "0x000000000000a5e6",
+        "hint": 1432,
+        "name": "MmMapLockedPages"
+      },
+      {
+        "va": "0x000000000000a6c6",
+        "hint": 1433,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\hidvhf.inf_amd64_0a924aec7600dcde\\vhf.sys",
+    "hash": "98188182d328414832d06e957601a997ad2b2b0f088b089181ede8fab0af733c",
+    "found": [
+      {
+        "va": "0x000000000000b478",
+        "hint": 1433,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\iagpio.inf_amd64_07b64df61e783bfe\\iagpio.sys",
+    "hash": "faaa46f22944e043a90ae6e9f0f86af187fc2819c563da375b2a409347bb2c35",
+    "found": [
+      {
+        "va": "0x000000000000b276",
+        "hint": 1317,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\iai2c.inf_amd64_a77c815b2999404d\\iai2c.sys",
+    "hash": "9296a14590dfd94a3c728caf3ca91ba211f27974f9cff8417cddc00d1453315c",
+    "found": [
+      {
+        "va": "0x00000000000192dc",
+        "hint": 1317,
+        "name": "MmMapIoSpaceEx"
+      },
+      {
+        "va": "0x0000000000019246",
+        "hint": 1319,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ialpss2i_gpio2_bxt_p.inf_amd64_8be317e01b44bf5a\\iaLPSS2i_GPIO2_BXT_P.sys",
+    "hash": "2141de558461b592d4111a0388d1aac8062fa72cd1e2a2d2d68279a9633288e9",
+    "found": [
+      {
+        "va": "0x00000000000142f0",
+        "hint": 1317,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ialpss2i_gpio2_cnl.inf_amd64_a60833fda31e9831\\iaLPSS2i_GPIO2_CNL.sys",
+    "hash": "e353d90d0b79a70f976fd5ea1cb7e25a97835e25116962ea035424715b2f43fe",
+    "found": [
+      {
+        "va": "0x00000000000192f0",
+        "hint": 1317,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ialpss2i_gpio2_glk.inf_amd64_dad1e0a2b185e32b\\iaLPSS2i_GPIO2_GLK.sys",
+    "hash": "71fdc25244298d62a335769d6ed43394c33fbd8db05aa54ca924a2977f37858f",
+    "found": [
+      {
+        "va": "0x00000000000142e8",
+        "hint": 1317,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ialpss2i_gpio2_skl.inf_amd64_b68199ad84607c21\\iaLPSS2i_GPIO2.sys",
+    "hash": "6ff5d13ef69e8fbcb4772c7b5c4d5770c78e0b29f9164fa1611efde91ce876be",
+    "found": [
+      {
+        "va": "0x00000000000112e8",
+        "hint": 1317,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ialpss2i_i2c_bxt_p.inf_amd64_190858fd8e931883\\iaLPSS2i_I2C_BXT_P.sys",
+    "hash": "bf354297a55713d9e2dd4044d42810c007733ee54d5a80d58b96dd279d92c716",
+    "found": [
+      {
+        "va": "0x0000000000024200",
+        "hint": 1317,
+        "name": "MmMapIoSpaceEx"
+      },
+      {
+        "va": "0x0000000000024258",
+        "hint": 1319,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ialpss2i_i2c_cnl.inf_amd64_f668309b543472eb\\iaLPSS2i_I2C_CNL.sys",
+    "hash": "f105edd16e38f5c0044cc7139e4084a04b0ae3212171a1c7f6fe759f3f5f77fc",
+    "found": [
+      {
+        "va": "0x00000000000251ec",
+        "hint": 1318,
+        "name": "MmMapIoSpaceEx"
+      },
+      {
+        "va": "0x0000000000025244",
+        "hint": 1320,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ialpss2i_i2c_glk.inf_amd64_7b6c08738ca8a856\\iaLPSS2i_I2C_GLK.sys",
+    "hash": "a92487129b81376471c842b9932ff3a7b3abbbb89797978e3fdeaf71a6fd5e3f",
+    "found": [
+      {
+        "va": "0x0000000000025200",
+        "hint": 1317,
+        "name": "MmMapIoSpaceEx"
+      },
+      {
+        "va": "0x0000000000025258",
+        "hint": 1319,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ialpss2i_i2c_skl.inf_amd64_9d9dbb01837eba23\\iaLPSS2i_I2C.sys",
+    "hash": "3f1f9ec7571d0f82d3f5bba298965491260708f05ebaaa2cc23483521a5ff079",
+    "found": [
+      {
+        "va": "0x0000000000023200",
+        "hint": 1317,
+        "name": "MmMapIoSpaceEx"
+      },
+      {
+        "va": "0x0000000000023258",
+        "hint": 1319,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ialpssi_i2c.inf_amd64_8e00e1aed7fbdf70\\iaLPSSi_I2C.sys",
+    "hash": "8445e41bab21964c7f014742795e462bddc6c37a261990b3d6bf4e637a719547",
+    "found": [
+      {
+        "va": "0x000000000001d2b6",
+        "hint": 1160,
+        "name": "MmMapIoSpace"
+      },
+      {
+        "va": "0x000000000001d36c",
+        "hint": 1162,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\iastorav.inf_amd64_87f761c07c99d5e7\\iaStorAVC.sys",
+    "hash": "7274f33e5eed8af739ffcc80b9a62cdf12553ebd2724e2f8e93fd67376cc6e84",
+    "found": [
+      {
+        "va": "0x0000000000112a36",
+        "hint": 232,
+        "name": "MmMapIoSpace"
+      }
+    ]
+  },
+  {
+    "name": "drv\\iastorv.inf_amd64_9c09bd1df352f065\\iaStorV.sys",
+    "hash": "30bee94794953e2dbf0fc5afce0566f335af022e89819de145329e7c09c636bd",
+    "found": [
+      {
+        "va": "0x000000000011a8da",
+        "hint": 969,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x000000000011a914",
+        "hint": 967,
+        "name": "MmMapIoSpace"
+      }
+    ]
+  },
+  {
+    "name": "drv\\iccwdt.inf_amd64_dd18b39e0126ee09\\x64\\ICCWDT.sys",
+    "hash": "cbcfa885b67c4a76aac2d7eeecb61a5640d49413c52e6e8b3e8189507f2ed49d",
+    "found": [
+      {
+        "va": "0x0000000000009236",
+        "hint": 1291,
+        "name": "MmMapIoSpace"
+      }
+    ]
+  },
+  {
+    "name": "drv\\image.inf_amd64_d2006c0517ddc60c\\sonydcam.sys",
+    "hash": "207166b770ff6ee0c609223a143018df630eb3258f30c1fefedc7058e8236381",
+    "found": [
+      {
+        "va": "0x00000000000093b4",
+        "hint": 234,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\input.inf_amd64_adeb6424513f60a2\\hidclass.sys",
+    "hash": "469bac4950767e0cfbaf6452dff522fa4d6144772ad5e0b61d17039397529c9f",
+    "found": [
+      {
+        "va": "0x000000000002bcae",
+        "hint": 1434,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\input.inf_amd64_adeb6424513f60a2\\hidusb.sys",
+    "hash": "3d7e7bce4a5654aeec62482c850869e20a1ab505b16bd690ba63886c20f25d1d",
+    "found": [
+      {
+        "va": "0x000000000000b5ea",
+        "hint": 1434,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\intelpep.inf_amd64_2e156c5dc4231642\\intelpep.sys",
+    "hash": "5d6958f2c527d465aed88b6604f9527b4612b4b5bc4f9f234e5200def7438bad",
+    "found": [
+      {
+        "va": "0x000000000005a9ce",
+        "hint": 1432,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\intelpmax.inf_amd64_2ddee95f7a5d85db\\intelpmax.sys",
+    "hash": "a62f436c66defeb438a7891857dfb830995714a7e4fe4bdca6b4eb1606bd2101",
+    "found": [
+      {
+        "va": "0x0000000000007318",
+        "hint": 1431,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\intelta.inf_amd64_ba962d801a22973c\\IntelTA.sys",
+    "hash": "b2e02c5049357a2dff1cf4f6f64ac6e1dccedc245e96d5bc0585e88e7622d1b9",
+    "found": [
+      {
+        "va": "0x0000000000005242",
+        "hint": 1432,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ipmidrv.inf_amd64_ddb154dfd1a1c33d\\IPMIDrv.sys",
+    "hash": "b3b22c1098303a89a8bd15157c899634475aac18a4a25383bc7d4c7185ad1b90",
+    "found": [
+      {
+        "va": "0x0000000000015e18",
+        "hint": 1432,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ipoib6x.inf_amd64_ef71073a5867971f\\ipoib6x.sys",
+    "hash": "67f2002b968a519d03fbe43ee3c8407c8f8b7380ede55ddbbd1c1eca48a7a1e7",
+    "found": [
+      {
+        "va": "0x00000000002aea00",
+        "hint": 1330,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x00000000002ae82a",
+        "hint": 1328,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\iscsi.inf_amd64_c089962740ea1f84\\msiscsi.sys",
+    "hash": "d293b163b6233a5b1aa1f8783ae1c4eff56d06af3e83fd0695bbed094074284c",
+    "found": [
+      {
+        "va": "0x000000000003ace6",
+        "hint": 1434,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x000000000003add4",
+        "hint": 1432,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\keyboard.inf_amd64_5938c699b80ebb8f\\i8042prt.sys",
+    "hash": "e1887a4e678bba7226e7ebe5b49ec821c2f23642d321a9e1513f7477e4b9340d",
+    "found": [
+      {
+        "va": "0x0000000000011806",
+        "hint": 1431,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\mausbhost.inf_amd64_34c86c15777c913b\\mausbhost.sys",
+    "hash": "da40e73a7f584d944f58c7f489b701315b8d30a29e5a6c840c9d291302271834",
+    "found": [
+      {
+        "va": "0x000000000005d632",
+        "hint": 1433,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\mausbhost.inf_amd64_34c86c15777c913b\\mausbip.sys",
+    "hash": "aeadb11e2be2eeb4bb5e4e13adda4633475022312aee777cfe7feb27c490b54c",
+    "found": [
+      {
+        "va": "0x000000000000e63c",
+        "hint": 1433,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\mbtmdm.inf_amd64_72b3fac558336713\\amd64\\mbtusbser.sys",
+    "hash": "c2ca51958ed5b5a6b103fb5ae8f8cea71ff034b27e38f849309eb3b5c0d1bdf5",
+    "found": [
+      {
+        "va": "0x00000000000150fc",
+        "hint": 229,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\mdmagm64.inf_amd64_7f60bc7ff484a292\\ltmdm64.sys",
+    "hash": "570195a36bb5162d59516708c92e8bf7a558a4b05adce30a624c805541962131",
+    "found": [
+      {
+        "va": "0x00000000000a7d1a",
+        "hint": 829,
+        "name": "MmMapIoSpace"
+      }
+    ]
+  },
+  {
+    "name": "drv\\mdmags64.inf_amd64_767b2d723d0fe83b\\agrsm64.sys",
+    "hash": "be64a40b9be997d73c0fc14d97e204c9d886eda07ec4c9391a70ce477084e5f1",
+    "found": [
+      {
+        "va": "0x000000000011e712",
+        "hint": 960,
+        "name": "MmMapIoSpace"
+      }
+    ]
+  },
+  {
+    "name": "drv\\mdmmot64.inf_amd64_2afbe7d3ad20f42a\\SmSerl64.sys",
+    "hash": "e599200c44eca5eb06475f90f67a58723b30c3c2887bd12ed7c31ff1042382ea",
+    "found": [
+      {
+        "va": "0x00000000001356b8",
+        "hint": 722,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x0000000000135a0c",
+        "hint": 720,
+        "name": "MmMapIoSpace"
+      }
+    ]
+  },
+  {
+    "name": "drv\\mlx4_bus.inf_amd64_4c426f3bebc68844\\mlx4_bus.sys",
+    "hash": "2c6b268486ad0f3bfb82de0f61d076df7c334c1c94a0316084713ebdb0c9c518",
+    "found": [
+      {
+        "va": "0x0000000000115aec",
+        "hint": 1328,
+        "name": "MmMapIoSpaceEx"
+      },
+      {
+        "va": "0x000000000011631a",
+        "hint": 1330,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\mlx4_bus.inf_amd64_4c426f3bebc68844\\ndfltr.sys",
+    "hash": "e3708d62dea31ba03d7ce7eef6a270da2b3556559140b556f5ab4ea289f921e2",
+    "found": [
+      {
+        "va": "0x00000000000267b2",
+        "hint": 1330,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\modemcsa.inf_amd64_a76330a2da8329a2\\MODEMCSA.sys",
+    "hash": "3015180c812ab02b56d35537846e1d26a0f7d2882d635e78dd51dc7f8f0bdfea",
+    "found": [
+      {
+        "va": "0x000000000000779e",
+        "hint": 1433,
+        "name": "MmMapLockedPages"
+      }
+    ]
+  },
+  {
+    "name": "drv\\mrvlpcie8897.inf_amd64_07fc330c5a5730ca\\mrvlpcie8897.sys",
+    "hash": "72ee4e962868c1c345a8d4e93ade0ccd919c369471de4d049bef59bd3642407b",
+    "found": [
+      {
+        "va": "0x00000000001697fa",
+        "hint": 1270,
+        "name": "MmMapIoSpaceEx"
+      },
+      {
+        "va": "0x0000000000169588",
+        "hint": 1272,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\msdv.inf_amd64_5c153f7ff7d0d00a\\msdv.sys",
+    "hash": "a2da5d81f9b03fc0e02b05a7268759d4c81449a329e08be17a3642e381444024",
+    "found": [
+      {
+        "va": "0x000000000000d522",
+        "hint": 234,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\mshdc.inf_amd64_ded026dc21bf9462\\ataport.sys",
+    "hash": "e78d3977a1e9bd260e8c29fd14782d2a10a0aad8ba5f7fb2bbc500d2f1019039",
+    "found": [
+      {
+        "va": "0x0000000000023192",
+        "hint": 1434,
+        "name": "MmMapIoSpaceEx"
+      },
+      {
+        "va": "0x0000000000023314",
+        "hint": 1436,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x00000000000234d4",
+        "hint": 1437,
+        "name": "MmMapLockedPagesWithReservedMapping"
+      }
+    ]
+  },
+  {
+    "name": "drv\\mshdc.inf_amd64_ded026dc21bf9462\\pciidex.sys",
+    "hash": "a275528f62e56441cc5899b84d5ecdec0096099b58517bf68b81a9f64af25b19",
+    "found": [
+      {
+        "va": "0x0000000000008840",
+        "hint": 1434,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\msports.inf_amd64_f2e8231e8b60f214\\serial.sys",
+    "hash": "024c1f9fbefdcbc174733a5c97b121a6d7ad30e836c1820054bcb45f99fb4373",
+    "found": [
+      {
+        "va": "0x000000000000b734",
+        "hint": 1431,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\mstape.inf_amd64_3e2c4fa2d4cbb487\\mstape.sys",
+    "hash": "b9d42a45d0123eeda03e7b288506c3535e63904b74a326902308147a8ec5f061",
+    "found": [
+      {
+        "va": "0x000000000001147c",
+        "hint": 234,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\msux64w10.inf_amd64_5aa81644af5957b3\\msux64w10.sys",
+    "hash": "05c1570c3797747ab4688c800941178a299b8310ae41db32696882f60daf7818",
+    "found": [
+      {
+        "va": "0x00000000000579fa",
+        "hint": 1245,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\mwlu97w8x64.inf_amd64_23bc3dc6d91eebdc\\mwlu97w8x64.sys",
+    "hash": "db48df9b19c717f598a991bb09cb30bbe9fc58db258ea4c3b65cdd137bbe94ab",
+    "found": [
+      {
+        "va": "0x00000000001a053a",
+        "hint": 1115,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\net1ic64.inf_amd64_5f033e913d34d111\\e1i65x64.sys",
+    "hash": "a8984c47a2bd8d3375a2d2f21ad167fa2773fd957a947c4e67bfa96cad3683ea",
+    "found": [
+      {
+        "va": "0x0000000000087550",
+        "hint": 1271,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\net1yx64.inf_amd64_8604d8a50804b9c1\\e1y60x64.sys",
+    "hash": "8c6c4579048d0d9c43742dbd55cb2e704914d46016bbbf68fcd860320605c6f1",
+    "found": [
+      {
+        "va": "0x0000000000043364",
+        "hint": 976,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\net44amd.inf_amd64_450d4b1e35cc8e0d\\b44amd64.sys",
+    "hash": "61c4470c67c1bba0d17010e6c09cb98f2d6cb1a605fbb34ad14aa50f7301e2af",
+    "found": [
+      {
+        "va": "0x000000000001826a",
+        "hint": 722,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\net7400-x64-n650.inf_amd64_557ce3b37c3e0e3b\\lan7400-x64-n650.sys",
+    "hash": "939b933e80ba901b1906c74e3c5f730dac7c66f54eca3650dd431572f34b95ed",
+    "found": [
+      {
+        "va": "0x000000000003a842",
+        "hint": 1307,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\net7500-x64-n650f.inf_amd64_cc87c915f33d1c27\\lan7500-x64-n650f.sys",
+    "hash": "280971bc1c60a42521f2fad4841fe282ef3bc947f175bd7ea6a36e175df1c743",
+    "found": [
+      {
+        "va": "0x000000000001853c",
+        "hint": 1319,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\net7800-x64-n650f.inf_amd64_178f1bdb49a6e2fd\\lan7800-x64-n650f.sys",
+    "hash": "c3caff165643ee59e5cbc1fd1815885c8f86a46858b5521603d6c1f25ca72be4",
+    "found": [
+      {
+        "va": "0x000000000001f53c",
+        "hint": 1319,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\net8185.inf_amd64_7a30f5a9441cd55b\\RTL85n64.sys",
+    "hash": "6fc404e489d2443188dae5ff58e7ad6ece05c5d36ee6df6a18201443583eccbe",
+    "found": [
+      {
+        "va": "0x0000000000212458",
+        "hint": 976,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\net8187bv64.inf_amd64_bc859d32f3e2f0d5\\RTL8187B.sys",
+    "hash": "dbc8680b639ca3cdc664acf9344fca503cad318472d5d42805c27f4ca6b524aa",
+    "found": [
+      {
+        "va": "0x00000000000762b8",
+        "hint": 976,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\net8187se64.inf_amd64_99a4ca261f585f17\\RTL8187Se.sys",
+    "hash": "dd349421cd92cbe591136edb0b66352b891d5624756e6e5ee40adf3a8f52a58b",
+    "found": [
+      {
+        "va": "0x0000000000073308",
+        "hint": 976,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\net8192se64.inf_amd64_167684f9283b4eca\\rtl8192se.sys",
+    "hash": "3868ee0dd6a9fd05fc5eb16fe53f6874a335eb3d46d0b37b2cbdb79a9576db04",
+    "found": [
+      {
+        "va": "0x000000000014e9f8",
+        "hint": 974,
+        "name": "MmMapIoSpace"
+      },
+      {
+        "va": "0x000000000014e378",
+        "hint": 976,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\net8192su64.inf_amd64_66c8bfc7a4b1feed\\RTL8192su.sys",
+    "hash": "793142bf5bd234f6ada35899ca0e3ed613be7fd09d035e5851b8c893c20f98fb",
+    "found": [
+      {
+        "va": "0x00000000000c02c0",
+        "hint": 976,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\net819xp.inf_amd64_ff7a5dd4f9b1ceba\\rtl819xp.sys",
+    "hash": "c79510205e7032bc3e8e2be477c646d93846bc42397a4d808185f3b5f18fdb28",
+    "found": [
+      {
+        "va": "0x00000000000a62e0",
+        "hint": 976,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\net9500-x64-n650f.inf_amd64_e92c5a65e41993f9\\lan9500-x64-n650f.sys",
+    "hash": "c71d022346f54f9423978ea7e6dea7e450a9eb96b0db764331ffc2e566c7ba91",
+    "found": [
+      {
+        "va": "0x0000000000017544",
+        "hint": 1319,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netaapl64.inf_amd64_56f23639c9617984\\netaapl64.sys",
+    "hash": "d774db020d9c46d1aa0b2db9fa2c36c4a9c38d904cc6929695321d32aca0d4d1",
+    "found": [
+      {
+        "va": "0x000000000000a502",
+        "hint": 976,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netadapter.inf_amd64_8e12d1edcc9e768d\\vmnetadapter.sys",
+    "hash": "8062940880fac20d9d8a31d5e900578ef3ab13867a8e67e01c5fa7e721f8f0d8",
+    "found": [
+      {
+        "va": "0x00000000000082a2",
+        "hint": 1250,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netathr10x.inf_amd64_2691c4f95b80eb3b\\Qcamain10x64.sys",
+    "hash": "ddbdceca004626093c1a9866b7eb3ec3b8a5992caf8bb60f41456e134e2425c2",
+    "found": [
+      {
+        "va": "0x0000000000283c98",
+        "hint": 1317,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netathrx.inf_amd64_220db23f5419ea8d\\athwnx.sys",
+    "hash": "8047e2d20724b464b481f06c3ac1fa5734e97f7ec0d86efeecd76480c84b3959",
+    "found": [
+      {
+        "va": "0x0000000000422d92",
+        "hint": 1113,
+        "name": "MmMapIoSpace"
+      },
+      {
+        "va": "0x0000000000423120",
+        "hint": 1115,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netax88179_178a.inf_amd64_b6748bc8bb8ccf4d\\ax88179_178a.sys",
+    "hash": "c2d9cf2189c10a837a98cff9d878ad1864c3dd79af41ede472c2b8488ff9a39e",
+    "found": [
+      {
+        "va": "0x0000000000015598",
+        "hint": 1250,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netax88772.inf_amd64_5d1c92f42d958529\\ax88772.sys",
+    "hash": "75008a1db4694e2526be09660bd094ce24891e8b4ad30694f12437ddeae0f33b",
+    "found": [
+      {
+        "va": "0x000000000001e44c",
+        "hint": 1244,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netbridge.inf_amd64_9204dc61a7dee6f3\\vmnetbridge.sys",
+    "hash": "8371fe9682b88365c3898cf89d78ede650f3ab09a863de9931cd0143f0f55abc",
+    "found": [
+      {
+        "va": "0x000000000000f452",
+        "hint": 1250,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netbvbda.inf_amd64_06bc8afcd2617abf\\bxvbda.sys",
+    "hash": "feb2771428706126fea1cc9a50ebe3cf4f8e8fb6fcb3ca19996497ca44fdac45",
+    "found": [
+      {
+        "va": "0x00000000000857a0",
+        "hint": 1261,
+        "name": "MmMapIoSpaceEx"
+      },
+      {
+        "va": "0x00000000000857e2",
+        "hint": 2437,
+        "name": "ZwMapViewOfSection"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netbxnda.inf_amd64_1fff3bc87a99b0f1\\bxnd60a.sys",
+    "hash": "35837510307392dc19dc7143674d17514898f5ad3a16161a5609e834d1c72c39",
+    "found": [
+      {
+        "va": "0x0000000000021734",
+        "hint": 1264,
+        "name": "MmMapLockedPagesWithReservedMapping"
+      },
+      {
+        "va": "0x00000000000215da",
+        "hint": 1263,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\nete1e3e.inf_amd64_895623810c19146a\\e1e6032e.sys",
+    "hash": "1872134ade262953128bf8fc07e41a5be9aebb58bd859d152991c1eacb9adb41",
+    "found": [
+      {
+        "va": "0x0000000000047334",
+        "hint": 861,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\nete1g3e.inf_amd64_af58b4e19562a3f9\\E1G6032E.sys",
+    "hash": "3b0a51e1fc4d5bd3e7ec182799ad712aeeaf1dcd761d7e98bec8a0a67f7334af",
+    "found": [
+      {
+        "va": "0x000000000001f75c",
+        "hint": 885,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netefe3e.inf_amd64_7830581a689ef40d\\eFE5b32e.sys",
+    "hash": "2dbfff4b7bc30453830523e1bdc8737dd6101102b2e178d4fabd051ff8d01dd4",
+    "found": [
+      {
+        "va": "0x000000000002b0e4",
+        "hint": 722,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netelx.inf_amd64_7812e4e45c4a5eb1\\ocnd65.sys",
+    "hash": "01ac3453b849e8aad34e3d669594395961f05a5f7933a3915927a2704afc4af9",
+    "found": [
+      {
+        "va": "0x000000000007f1dc",
+        "hint": 1250,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x000000000007f20e",
+        "hint": 1248,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netevbda.inf_amd64_1503f4d5a0d6ba56\\evbda.sys",
+    "hash": "48d9f61e943a7855562950ff26b866bd51a27d980757b065504fcd3f1a1d6f07",
+    "found": [
+      {
+        "va": "0x000000000036948c",
+        "hint": 1261,
+        "name": "MmMapIoSpaceEx"
+      },
+      {
+        "va": "0x0000000000369a76",
+        "hint": 2437,
+        "name": "ZwMapViewOfSection"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netg664.inf_amd64_84cd7b2798e0a666\\SiSG664.sys",
+    "hash": "2b26f6eb701f48e092ded6a7b888f24736f2899ee81d54dd4b1e9df7cfd36e7a",
+    "found": [
+      {
+        "va": "0x000000000001046e",
+        "hint": 861,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netjme.inf_amd64_752bf22f1598bb7e\\NETJME.sys",
+    "hash": "c748c0e9e7199bb608f24c1dc3fce9a7b515719d6a7d08b7247862086b067b90",
+    "found": [
+      {
+        "va": "0x0000000000024556",
+        "hint": 1113,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netk57a.inf_amd64_d823e3edc27ae17c\\k57nd60a.sys",
+    "hash": "9128f825403b26a39bc769a53555df1fd2b82882af1384135d0329fcf2bbac6d",
+    "found": [
+      {
+        "va": "0x000000000006c7a2",
+        "hint": 2176,
+        "name": "ZwMapViewOfSection"
+      },
+      {
+        "va": "0x000000000006c5c0",
+        "hint": 1160,
+        "name": "MmMapIoSpace"
+      },
+      {
+        "va": "0x000000000006c5a0",
+        "hint": 1162,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netl160a.inf_amd64_e4cbe375963a69e9\\l160x64.sys",
+    "hash": "765c6c98432a9ab6ff73b8d984c69886b115cbbd365e95877c61e52aa16b1ae3",
+    "found": [
+      {
+        "va": "0x00000000000114e8",
+        "hint": 885,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netl1e64.inf_amd64_8d5ca5ab1472fc44\\L1E62x64.sys",
+    "hash": "ec3c17ee09f05e08b7ba6d3dcc5018804ed5d254a3cf9245b571cf26be4b7200",
+    "found": [
+      {
+        "va": "0x000000000000f56e",
+        "hint": 976,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netl260a.inf_amd64_783312763f8749c7\\l260x64.sys",
+    "hash": "1868cbf823de3b2a8a5e431d9ff29c2e809932f004ebeea523da491466fa71db",
+    "found": [
+      {
+        "va": "0x000000000000a3ba",
+        "hint": 861,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netmlx4eth63.inf_amd64_3809a4a3e7e07703\\mlx4eth63.sys",
+    "hash": "1f2e1e56d08517eb0d49db7a0d6ec46cf30d413b122fb769037a47b76b799548",
+    "found": [
+      {
+        "va": "0x000000000009f882",
+        "hint": 1328,
+        "name": "MmMapIoSpaceEx"
+      },
+      {
+        "va": "0x000000000009fa74",
+        "hint": 1330,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netmlx5.inf_amd64_101a408e6cb1d8f8\\mlx5.sys",
+    "hash": "5734cd85440d7df99ee1b93e5fd0c729d1d89d773a3698141c16b38b6a9fa656",
+    "found": [
+      {
+        "va": "0x0000000000187f32",
+        "hint": 1319,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x0000000000188ce2",
+        "hint": 1316,
+        "name": "MmMapIoSpace"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netmyk64.inf_amd64_1f949c30555f4111\\yk63x64.sys",
+    "hash": "fda9d5cd481443882ca5b7e386ea78bf3115a0b9980e0b46a9b67a553f0b4709",
+    "found": [
+      {
+        "va": "0x00000000000499ee",
+        "hint": 2101,
+        "name": "ZwMapViewOfSection"
+      },
+      {
+        "va": "0x0000000000049afe",
+        "hint": 1115,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netnvm64.inf_amd64_35bbbe80dec15683\\nvm62x64.sys",
+    "hash": "50256eeadbbc5cccf3ebaeb9020d91edb9961e7404bd41067a4290362be6962f",
+    "found": [
+      {
+        "va": "0x0000000000052e80",
+        "hint": 229,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netnvma.inf_amd64_7080f6b8ea1744fb\\nvm60x64.sys",
+    "hash": "b665afa1ade149595acbd2d0661f9255ed68b28aca2856076967a8076a09002e",
+    "found": [
+      {
+        "va": "0x000000000011d3a8",
+        "hint": 842,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netr28ux.inf_amd64_d5996f2a9d9aa9e3\\netr28ux.sys",
+    "hash": "94734aef0f2698863c0570c05955b3c297b038dfe74a759896588c4aaaab557f",
+    "found": [
+      {
+        "va": "0x0000000000226886",
+        "hint": 1162,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netr28x.inf_amd64_5d63c7bcbf29107f\\netr28x.sys",
+    "hash": "e6c6321820afb4d3abf2daf894efe0e8fc308f5de6f9fe2ffe56f89a319c8c0e",
+    "found": [
+      {
+        "va": "0x0000000000271500",
+        "hint": 1162,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netr7364.inf_amd64_310ee0bc0af86ba3\\netr7364.sys",
+    "hash": "b3c9de37442028b5762a938bf7f43db688cfab371d748598e1f89ccdd8a43049",
+    "found": [
+      {
+        "va": "0x00000000000b6340",
+        "hint": 976,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netrndis.inf_amd64_be4ba6237d385e2e\\rndismp6.sys",
+    "hash": "d558467816eecc3cc503be3eb7c50f9b78832cc296727d3148a9eed9e1ecd1e0",
+    "found": [
+      {
+        "va": "0x000000000000b464",
+        "hint": 1434,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netrndis.inf_amd64_be4ba6237d385e2e\\usb80236.sys",
+    "hash": "db298d4d4ec236ae141ee050f236f11fc603f55fb1b3392286ac81cef2bb8039",
+    "found": [
+      {
+        "va": "0x000000000000848c",
+        "hint": 1434,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netrtl64.inf_amd64_8e9c2368fe308df2\\Rtnic64.sys",
+    "hash": "82c02edb30d4fa1145ab1818f9fce0b73feb1b94c138b5513794f25fac85f2cc",
+    "found": [
+      {
+        "va": "0x000000000000f3f0",
+        "hint": 861,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netrtwlane.inf_amd64_20caba88bd7f0bb3\\rtwlane.sys",
+    "hash": "b747f3d4636d1afa02e12810ecf34212fc28033d611cf1caec0fb8e19fb86878",
+    "found": [
+      {
+        "va": "0x0000000000a81658",
+        "hint": 1330,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netrtwlane01.inf_amd64_b02695ef070d7a42\\rtwlane01.sys",
+    "hash": "9eba55a4a00534f9bfc98ae3f9f7c36247cb2904514dc572fe8014a6f1ed56a1",
+    "found": [
+      {
+        "va": "0x000000000078a5c4",
+        "hint": 1307,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netrtwlane_13.inf_amd64_992f4f46e65f30d4\\rtwlane_13.sys",
+    "hash": "bb8d21bf26568ece0599d8469121c73a6ae847203c110b6f0b94b5e7f76d6df6",
+    "found": [
+      {
+        "va": "0x000000000038e4ba",
+        "hint": 1245,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netrtwlans.inf_amd64_97cd1a72c2a7829c\\rtwlans.sys",
+    "hash": "e2f709b25b504bef2c7b10d2acab3966ef62328c1ac5f3e04ca156de4391d067",
+    "found": [
+      {
+        "va": "0x000000000074a512",
+        "hint": 1271,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netrtwlanu.inf_amd64_1815bafd14dc59f0\\rtwlanu.sys",
+    "hash": "6ef2e531ae7a8a636fded68ea679bccf692758d905bec35053a240131ada3463",
+    "found": [
+      {
+        "va": "0x0000000000904548",
+        "hint": 1294,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\nett4x64.inf_amd64_54eacac1858c78ab\\cht4nx64.sys",
+    "hash": "ecfb74f576e93a6a00cf8467be7c33f4720831d1f0d47297e4ec21e409b75c57",
+    "found": [
+      {
+        "va": "0x0000000000084f08",
+        "hint": 1323,
+        "name": "MmMapIoSpaceEx"
+      },
+      {
+        "va": "0x0000000000084b3a",
+        "hint": 1325,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netv1x64.inf_amd64_30040c3eb9d7ade4\\v1q63x64.sys",
+    "hash": "737a4af06b2589bbd0c90ca97f00ea71a1afacb4278e550a02cbe94155cac489",
+    "found": [
+      {
+        "va": "0x000000000001d2e8",
+        "hint": 1113,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netvf63a.inf_amd64_a090e6cfaf18cb5c\\fetn63a.sys",
+    "hash": "19a1f2fce0fcb6358f2e71f4e63b629260acab47e1b94fe123bba68c7c46b5ba",
+    "found": [
+      {
+        "va": "0x000000000000f670",
+        "hint": 1115,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netvg63a.inf_amd64_9f5493180b1252cf\\getn63a.sys",
+    "hash": "24c19f5f0b5fbf584eb78692c7cdf9100c20e85f2a86142f6d88fa4bb1a15065",
+    "found": [
+      {
+        "va": "0x00000000000106c0",
+        "hint": 1115,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netwbw02.inf_amd64_1c4077fa004e73b4\\Netwbw02.sys",
+    "hash": "b8cb13863c1f0c589c008e191a393df241f3067dd7cade02b3b7d36b28bba2ed",
+    "found": [
+      {
+        "va": "0x0000000000378770",
+        "hint": 1160,
+        "name": "MmMapIoSpace"
+      },
+      {
+        "va": "0x00000000003786d4",
+        "hint": 1162,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netwew00.inf_amd64_325c0bd6349ed81c\\NETwew00.sys",
+    "hash": "71d6ac59541091fa8d7b421e360075916ccfe20b6cf68d15e4d9224f05616d91",
+    "found": [
+      {
+        "va": "0x000000000033c772",
+        "hint": 1113,
+        "name": "MmMapIoSpace"
+      },
+      {
+        "va": "0x000000000033c716",
+        "hint": 1115,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netwew01.inf_amd64_153e01d761813df2\\NETwew01.sys",
+    "hash": "801c2a1f12e6f0d646e92c98477fcdb84c6743803cd7365b774b0f88eb650584",
+    "found": [
+      {
+        "va": "0x000000000033d772",
+        "hint": 1113,
+        "name": "MmMapIoSpace"
+      },
+      {
+        "va": "0x000000000033d716",
+        "hint": 1115,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netwlv64.inf_amd64_0b9818131664d91e\\netwlv64.sys",
+    "hash": "db6ad436a4af7d94f8bb3159ef0e0a34ad93f9419957ff8afc9978fb664cd3ff",
+    "found": [
+      {
+        "va": "0x0000000000731558",
+        "hint": 883,
+        "name": "MmMapIoSpace"
+      },
+      {
+        "va": "0x0000000000731512",
+        "hint": 885,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netwmbclass.inf_amd64_dba6eeaf0544a4e0\\cxwmbclass.sys",
+    "hash": "532af928f2c1b81bbad459e9f897051eec0165dcc58aaca72f180df6b8f7bb74",
+    "found": [
+      {
+        "va": "0x0000000000015436",
+        "hint": 1434,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netwns64.inf_amd64_162bb49f925c6463\\NETwNs64.sys",
+    "hash": "898dcbbbf94875059cd328b0fc75be36a4e3dd471c6e28bfae064bcf84349518",
+    "found": [
+      {
+        "va": "0x000000000087b596",
+        "hint": 974,
+        "name": "MmMapIoSpace"
+      },
+      {
+        "va": "0x000000000087b520",
+        "hint": 976,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netwsw00.inf_amd64_24d55504ae3587aa\\Netwsw00.sys",
+    "hash": "3d65a772c15440df5895843185241d890ccdeca0e02dd6cf32ccb9b5849e31a4",
+    "found": [
+      {
+        "va": "0x0000000000b406b8",
+        "hint": 974,
+        "name": "MmMapIoSpace"
+      },
+      {
+        "va": "0x0000000000b4062e",
+        "hint": 976,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netwtw02.inf_amd64_42e02bae858d0fbd\\Netwtw02.sys",
+    "hash": "24d33fb3ddd889157c606eede21ce943a90c658f1ac7bb596f031aa9409d92b3",
+    "found": [
+      {
+        "va": "0x00000000006929b4",
+        "hint": 1242,
+        "name": "MmMapIoSpace"
+      },
+      {
+        "va": "0x0000000000692856",
+        "hint": 1245,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netwtw04.inf_amd64_c8f5ae6576289a2d\\Netwtw04.sys",
+    "hash": "317c8979221d4797d04fd160fc9bdd2783044dce34d66d0df0290a24a2adab89",
+    "found": [
+      {
+        "va": "0x000000000087cbb0",
+        "hint": 1304,
+        "name": "MmMapIoSpace"
+      },
+      {
+        "va": "0x000000000087ca00",
+        "hint": 1307,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netwtw06.inf_amd64_2edd50e7a54d503b\\Netwtw06.sys",
+    "hash": "1d8ce74ed07fa3aabfaaaeb449a8401f9bcad6fe93d31fc4eb11835cd978785d",
+    "found": [
+      {
+        "va": "0x0000000000895c86",
+        "hint": 1316,
+        "name": "MmMapIoSpace"
+      },
+      {
+        "va": "0x00000000008959bc",
+        "hint": 1319,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netwtw08.inf_amd64_7c0c516fb22456cd\\Netwtw08.sys",
+    "hash": "98892382184072c09ccbbded367eba8aea64ac924dcecd26434b81501cd5b4f3",
+    "found": [
+      {
+        "va": "0x00000000008f7e96",
+        "hint": 1327,
+        "name": "MmMapIoSpace"
+      },
+      {
+        "va": "0x00000000008f7c86",
+        "hint": 1330,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\netxex64.inf_amd64_ede00b448bfe8099\\ixe60x64.sys",
+    "hash": "1b1bee877dea7b3444a2f56d8cb6e1f6217639fc3c732f8d84bab9e6aa161dab",
+    "found": [
+      {
+        "va": "0x000000000002e49e",
+        "hint": 969,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\npcap.inf_amd64_2ac96279239fa8cb\\npcap.sys",
+    "hash": "dbd21b233ca5028f177b8f42a8ad544b07777aaf54f12cd7e55d419f56cb5b5e",
+    "found": [
+      {
+        "va": "0x000000000000fef0",
+        "hint": 1330,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\nv_dispui.inf_amd64_631a5754ec49f808\\nvlddmkm.sys",
+    "hash": "c8420faf102b52ca203c28e6b829fb2315eeac407323a757dc2527d27b81e187",
+    "found": [
+      {
+        "va": "0x0000000002955a2e",
+        "hint": 1517,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x0000000002955c6c",
+        "hint": 2905,
+        "name": "ZwMapViewOfSection"
+      },
+      {
+        "va": "0x0000000002956074",
+        "hint": 1518,
+        "name": "MmMapLockedPagesWithReservedMapping"
+      },
+      {
+        "va": "0x000000000295640a",
+        "hint": 1514,
+        "name": "MmMapIoSpace"
+      },
+      {
+        "va": "0x0000000002956bb6",
+        "hint": 1515,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\nvppc.inf_amd64_efd02b4502a397e8\\UcmCxUcsiNvppc.sys",
+    "hash": "7b2bf0e0adfd3d8bbedd1659a3ab894f41a33254658d03d7bd038f3110edefae",
+    "found": [
+      {
+        "va": "0x000000000006c51c",
+        "hint": 1318,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\nvraid.inf_amd64_144351277838b429\\nvraid.sys",
+    "hash": "628927eb91c6a323ca67b97ef743775b68d30599a0f0593bc3b5c0ba6c5ab82c",
+    "found": [
+      {
+        "va": "0x000000000001e4ec",
+        "hint": 1185,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x000000000001e65c",
+        "hint": 1183,
+        "name": "MmMapIoSpace"
+      }
+    ]
+  },
+  {
+    "name": "drv\\nvvhci.inf_amd64_8f7dbc4b83b3615c\\amd64\\nvvhci.sys",
+    "hash": "69bf7571e15df3785f421b4faa25c10fa3278fd983f3eb76a9a294f1a3e3fda5",
+    "found": [
+      {
+        "va": "0x000000000000d57e",
+        "hint": 1307,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\oemvista.inf_amd64_2c4931cd70af38ac\\tapwindscribe0901.sys",
+    "hash": "17c4ab6752636d286ac2bf511484bfa403019dc6ae51d4eb4259604377fce012",
+    "found": [
+      {
+        "va": "0x000000000000968c",
+        "hint": 1330,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\oemvista.inf_amd64_61afdf38efdd77a0\\tap_ovpnconnect.sys",
+    "hash": "dbee1656deca6f41b0ae3b4465d923f08bc91fa42a2cf0dd4bb15a3f3dd193c2",
+    "found": [
+      {
+        "va": "0x000000000000968c",
+        "hint": 1330,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\pci.inf_amd64_bd47cfa2f19fd5af\\pci.sys",
+    "hash": "515db2d81a5305d2d0165aa8e5137076e423af43d1c9512c37e5510c0972c71e",
+    "found": [
+      {
+        "va": "0x000000000003c056",
+        "hint": 1436,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x000000000003c10a",
+        "hint": 1434,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\pcmcia.inf_amd64_cb18bba4788e47f7\\pcmcia.sys",
+    "hash": "cd84890deb63c782a51a7f4d962b88cac9aa226c3c7ddc2d2b0a56e81b00b07c",
+    "found": [
+      {
+        "va": "0x000000000001194a",
+        "hint": 1431,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\phosgene.inf_amd64_fea23dd4b032fd4f\\Phosgene.sys",
+    "hash": "ae52218d900d46c70c6d06cd4c82bf3e18e5dd12fb69d0548d376014013f9367",
+    "found": [
+      {
+        "va": "0x000000000000b4f2",
+        "hint": 976,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x000000000000b596",
+        "hint": 1860,
+        "name": "ZwMapViewOfSection"
+      }
+    ]
+  },
+  {
+    "name": "drv\\pmem.inf_amd64_16ce24228312a388\\pmem.sys",
+    "hash": "6b57d69cf3bf0b266eb3139e11216b5e86c6329a1b2b7e7b11e313ba10f8e6f6",
+    "found": [
+      {
+        "va": "0x0000000000013b3a",
+        "hint": 1434,
+        "name": "MmMapIoSpaceEx"
+      },
+      {
+        "va": "0x0000000000013f94",
+        "hint": 1437,
+        "name": "MmMapLockedPagesWithReservedMapping"
+      }
+    ]
+  },
+  {
+    "name": "drv\\rt640x64.inf_amd64_84bda695edefda69\\rt640x64.sys",
+    "hash": "c847c9f73fee1fa42c7561ec6eda774a40a64bed8c5a5502365da921c535ddb5",
+    "found": [
+      {
+        "va": "0x0000000000116bb0",
+        "hint": 1317,
+        "name": "MmMapIoSpaceEx"
+      },
+      {
+        "va": "0x0000000000116aa8",
+        "hint": 1319,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\rt640x64.inf_amd64_8984d8483eef476c\\rt640x64.sys",
+    "hash": "e48a1840f0dd4b1983e9a897506cc25283bdf6eb2ec2dd887eb9796b2a21a7e3",
+    "found": [
+      {
+        "va": "0x00000000000a8772",
+        "hint": 1330,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\rtux64w10.inf_amd64_d6132e4c7fe2fac6\\rtux64w10.sys",
+    "hash": "b4f4d38b57d873457e27ac88f9bd9082e0bb08bcef6531d8ac1695232808cec0",
+    "found": [
+      {
+        "va": "0x0000000000066bd6",
+        "hint": 1307,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\rtwlanu_oldic.inf_amd64_1a82423cc076e882\\rtwlanu_oldIC.sys",
+    "hash": "bc3915336e7aa0a308d485c8437cbb747b3d1647bae23133afc5c7bdc79e32b2",
+    "found": [
+      {
+        "va": "0x00000000003a3432",
+        "hint": 1245,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\sbaudio-x64.inf_amd64_cede75ee029e14f7\\ScreamingBAudio64.sys",
+    "hash": "66a4356c29d00a1b8a95975c073ae4e6d2a90cbf3b143fe9b83b96bec0805d46",
+    "found": [
+      {
+        "va": "0x00000000000082ba",
+        "hint": 885,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\sbaudio.inf_amd64_85e590d498f08ce7\\ScreamingBAudio64.sys",
+    "hash": "0ad2d09bac6c2d58bc6882a98aaf629a827b7af763cc4e01b210b6d1bd15a9ab",
+    "found": [
+      {
+        "va": "0x00000000000092ca",
+        "hint": 1250,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\sbp2.inf_amd64_1d08bca921956372\\sbp2port.sys",
+    "hash": "7c80a1d636c94918a14a3a58a818dfe94c0fcfa8bd152ae2b0a31d3f081e8914",
+    "found": [
+      {
+        "va": "0x0000000000018d2c",
+        "hint": 1434,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\sdbus.inf_amd64_81d31e6beee277ad\\dumpsd.sys",
+    "hash": "866630d8670d344f16d8ded5596e622a63cdddb089320bec606553b26ecefd02",
+    "found": [
+      {
+        "va": "0x000000000002b5e6",
+        "hint": 1434,
+        "name": "MmMapIoSpaceEx"
+      },
+      {
+        "va": "0x000000000002b956",
+        "hint": 1436,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x000000000002b98a",
+        "hint": 1437,
+        "name": "MmMapLockedPagesWithReservedMapping"
+      }
+    ]
+  },
+  {
+    "name": "drv\\sdbus.inf_amd64_81d31e6beee277ad\\sdbus.sys",
+    "hash": "c5d8edc0a45fbb42ea5f64e4f901c1d1d8a96fd10fb3887944ac58c04dd731f8",
+    "found": [
+      {
+        "va": "0x000000000003d620",
+        "hint": 1434,
+        "name": "MmMapIoSpaceEx"
+      },
+      {
+        "va": "0x000000000003d69c",
+        "hint": 1436,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x000000000003d6d0",
+        "hint": 1437,
+        "name": "MmMapLockedPagesWithReservedMapping"
+      }
+    ]
+  },
+  {
+    "name": "drv\\sdstor.inf_amd64_0d2a33dd67a36577\\sdstor.sys",
+    "hash": "32d055054edb9d10c76af7459dc39c6a119ff87022096f8cb4dfbcfe07efb58a",
+    "found": [
+      {
+        "va": "0x00000000000120b8",
+        "hint": 1434,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\secubus.inf_amd64_2485f81ced67332f\\amd64\\secubus.sys",
+    "hash": "7db1ac56ba0551b1408f4a959c8d6f8f12a6823f058eea902efa8a7e4a21a3a0",
+    "found": [
+      {
+        "va": "0x000000000001d764",
+        "hint": 860,
+        "name": "MmMapLockedPages"
+      }
+    ]
+  },
+  {
+    "name": "drv\\spaceport.inf_amd64_dfcae352de5201ed\\spaceport.sys",
+    "hash": "10a0a5be505fee3cbfba87431fbf98510a8f15c23b206710662955ef3ab563e4",
+    "found": [
+      {
+        "va": "0x000000000005c29e",
+        "hint": 1437,
+        "name": "MmMapLockedPagesWithReservedMapping"
+      },
+      {
+        "va": "0x000000000005c452",
+        "hint": 1436,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ss_bbus.inf_amd64_c15b1b62bb89ce93\\amd64\\ss_bbus.sys",
+    "hash": "6ef229a7b7aff0268cdf47b77f961bd44335c3b35499bb00cba494a22b2ba39e",
+    "found": [
+      {
+        "va": "0x000000000001f78c",
+        "hint": 884,
+        "name": "MmMapLockedPages"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ss_bus.inf_amd64_6d955f904c10c7ea\\amd64\\ss_bus.sys",
+    "hash": "8cfd9cd93d3b30d21ae1f25d8f0d78ec2876d85bf622d638bbd3809a3373baff",
+    "found": [
+      {
+        "va": "0x000000000001f78c",
+        "hint": 884,
+        "name": "MmMapLockedPages"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ssadbus.inf_amd64_65e237cf1677ddeb\\amd64\\ssadbus.sys",
+    "hash": "9c8c65ac69ba5c9885cf2a4bd72b869754948377aa3fed2680e7bf8c5639f2a2",
+    "found": [
+      {
+        "va": "0x00000000000297da",
+        "hint": 884,
+        "name": "MmMapLockedPages"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ssaebus.inf_amd64_52d5c961892b3d6b\\amd64\\ssaebus.sys",
+    "hash": "35cae87f3c1b71bf88b207fd7551039ed617f492ab6b7166ef78b884629dac72",
+    "found": [
+      {
+        "va": "0x000000000002078c",
+        "hint": 884,
+        "name": "MmMapLockedPages"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ssaendis.inf_amd64_2a09a18b89bd4cb6\\amd64\\ssaend5.sys",
+    "hash": "dfcb42f48b381a6fe10306251f8a3658f9beb6016624811ac380e96660ffc28a",
+    "found": [
+      {
+        "va": "0x00000000000092e0",
+        "hint": 884,
+        "name": "MmMapLockedPages"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ssbcbus.inf_amd64_6a998f5fe26c7a34\\amd64\\ssbcbus.sys",
+    "hash": "2313b69b5b2150fce6cb08127db542c11526e643c8417d8eec7ce993ef4b0e3d",
+    "found": [
+      {
+        "va": "0x000000000001a726",
+        "hint": 860,
+        "name": "MmMapLockedPages"
+      }
+    ]
+  },
+  {
+    "name": "drv\\sscdbus.inf_amd64_3fa17917ff077f1a\\amd64\\sscdbus.sys",
+    "hash": "a9aef5d88dddce27a4640fe82ced92a4957c42f8e9eedfc52dc128a66e0b43ed",
+    "found": [
+      {
+        "va": "0x00000000000297da",
+        "hint": 884,
+        "name": "MmMapLockedPages"
+      }
+    ]
+  },
+  {
+    "name": "drv\\sscebus.inf_amd64_e27064ab44471ca5\\amd64\\sscebus.sys",
+    "hash": "36d66a3b128d27b31fd2dee82aebf6305c927ecba63074ec3c15a7edb5bd2191",
+    "found": [
+      {
+        "va": "0x00000000000297da",
+        "hint": 884,
+        "name": "MmMapLockedPages"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ssecbus.inf_amd64_0745b2a227fcff7a\\amd64\\ssecbus.sys",
+    "hash": "81c35539725295e15b864d429c3acada35c597fbe861be2b4cfcf3b416745e91",
+    "found": [
+      {
+        "va": "0x000000000001c74c",
+        "hint": 884,
+        "name": "MmMapLockedPages"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ssecndis.inf_amd64_c3c9e76d1fa7b1be\\amd64\\ssecnd5.sys",
+    "hash": "bf66d62dea0001b3707b37a37dcad40ea23f3f01557c285302a1a7205a441ece",
+    "found": [
+      {
+        "va": "0x00000000000092c0",
+        "hint": 884,
+        "name": "MmMapLockedPages"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ssm_bus.inf_amd64_282b82799728f1c6\\amd64\\ssm_bus.sys",
+    "hash": "89cb6756e71e5f11e58ca42d08bf3d011618d4cffa6335ba3eab8b7dc441bfb8",
+    "found": [
+      {
+        "va": "0x00000000000207ac",
+        "hint": 884,
+        "name": "MmMapLockedPages"
+      }
+    ]
+  },
+  {
+    "name": "drv\\sssdbus.inf_amd64_2c086231d5030ed1\\amd64\\sssdbus.sys",
+    "hash": "7e610667b8539a31bb9f3b7cb90bfa8f2ff68c635c8c290f85082b1bbb04d50b",
+    "found": [
+      {
+        "va": "0x000000000001f78c",
+        "hint": 884,
+        "name": "MmMapLockedPages"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ssudnd5.inf_amd64_65ea0b5466f54bd9\\amd64\\ssudnd5.sys",
+    "hash": "ca09b7962096bc31a2bf88687ea1cd76a9ce7382034b1f5f7c410e249ee17e2f",
+    "found": [
+      {
+        "va": "0x0000000000010b5e",
+        "hint": 1307,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ssudnet.inf_amd64_46321166f14f3f08\\amd64\\ssudnet.sys",
+    "hash": "0bdf14baa1cbae844edcf88e726051ecbdd4a7d6d6b41f06811185598fa68850",
+    "found": [
+      {
+        "va": "0x00000000000188b0",
+        "hint": 1307,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ssudqcnet.inf_amd64_65edf3e99044ae7f\\amd64\\ssudqcnet.sys",
+    "hash": "06b421b8a2b519c438c673595e7fe50d667a60dfaf938471bc9ad2817c03bbbd",
+    "found": [
+      {
+        "va": "0x0000000000061c44",
+        "hint": 885,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ssudrmnetmp.inf_amd64_f2936e72fd6a7a09\\amd64\\ssudrmnetmp.sys",
+    "hash": "af8ad493204d2619a1123b2070bff31e009117707f34f3454ec1061d14cdbc8d",
+    "found": [
+      {
+        "va": "0x000000000001a99a",
+        "hint": 1307,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\sti.inf_amd64_5e1b8b7b52cfb052\\scsiscan.sys",
+    "hash": "93e9eb1b61d4c2c6de063f03fbabb8460be1c6d905f32d55ddf36d955567160b",
+    "found": [
+      {
+        "va": "0x0000000000006622",
+        "hint": 1435,
+        "name": "MmMapLockedPages"
+      }
+    ]
+  },
+  {
+    "name": "drv\\sti.inf_amd64_5e1b8b7b52cfb052\\usbscan.sys",
+    "hash": "b19fa912a0794b891011f9880bfdde3e4c624699324a5c867cfaf497d2dee89c",
+    "found": [
+      {
+        "va": "0x00000000000076f8",
+        "hint": 1436,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\tdibth.inf_amd64_e1022e6b4f7ab56d\\rfcomm.sys",
+    "hash": "825c918d22fc8dbf3ee9bdb41d121a0ac3ccbffba147e2b26f0197552e0675de",
+    "found": [
+      {
+        "va": "0x0000000000031d5e",
+        "hint": 1433,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\tpm.inf_amd64_154e6da862a6dc30\\tpm.sys",
+    "hash": "62ece387ceaad6296a35632afc96e8a4e7018bd0a1037cd4af8951f833ac38da",
+    "found": [
+      {
+        "va": "0x0000000000039d82",
+        "hint": 1432,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\tsgenericusbdriver.inf_amd64_bcfa5f586783921d\\TsUsbGD.sys",
+    "hash": "161a01bac7e84b72bc6c2e83a63cc9e1dc7e2e9104c1645cd098d14094d2ac79",
+    "found": [
+      {
+        "va": "0x000000000000a35c",
+        "hint": 1434,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ucmucsiacpiclient.inf_amd64_a233292790c69f03\\UcmUcsiAcpiClient.sys",
+    "hash": "3626760aee42ee36e047da6899a81e0646dfba344a234270eae5d635f049be37",
+    "found": [
+      {
+        "va": "0x000000000000721c",
+        "hint": 1431,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ufxchipidea.inf_amd64_1c78775fffab6a0a\\UfxChipidea.sys",
+    "hash": "70fead3371792160701d47a808fc78786766e4c7ca7c5ed8da356bfc991a275a",
+    "found": [
+      {
+        "va": "0x000000000001435a",
+        "hint": 1431,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ufxsynopsys.inf_amd64_978099f98cc73ddf\\ufxsynopsys.sys",
+    "hash": "51f112449305c5f03fea6f046ca007a8056a65ef84986393a1b4203f53a08833",
+    "found": [
+      {
+        "va": "0x000000000001d4da",
+        "hint": 1432,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\urssynopsys.inf_amd64_057fa37902020500\\urssynopsys.sys",
+    "hash": "5a8cc47603a1c9d58a30a5e897f1bcdc56199b08317b9ff319d469d6dd6caaf0",
+    "found": [
+      {
+        "va": "0x0000000000007228",
+        "hint": 1431,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\usb_device.inf_amd64_0774c8e3e9390e0d\\amd64\\libusb0.sys",
+    "hash": "8058f2afe6ef96a7d2ded432997fd8655970c9ea75a938ee4557d6a2cb4cc989",
+    "found": [
+      {
+        "va": "0x000000000000d5b4",
+        "hint": 722,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\usb_device.inf_amd64_16c6892a05667bf5\\amd64\\libusb0.sys",
+    "hash": "8058f2afe6ef96a7d2ded432997fd8655970c9ea75a938ee4557d6a2cb4cc989",
+    "found": [
+      {
+        "va": "0x000000000000d5b4",
+        "hint": 722,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\usb_device.inf_amd64_3973aada63972b19\\amd64\\libusb0.sys",
+    "hash": "8058f2afe6ef96a7d2ded432997fd8655970c9ea75a938ee4557d6a2cb4cc989",
+    "found": [
+      {
+        "va": "0x000000000000d5b4",
+        "hint": 722,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\usb_device.inf_amd64_4032cd1b32148c90\\amd64\\libusb0.sys",
+    "hash": "8058f2afe6ef96a7d2ded432997fd8655970c9ea75a938ee4557d6a2cb4cc989",
+    "found": [
+      {
+        "va": "0x000000000000d5b4",
+        "hint": 722,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\usb_device.inf_amd64_6285a86299b7a1b4\\amd64\\libusb0.sys",
+    "hash": "8058f2afe6ef96a7d2ded432997fd8655970c9ea75a938ee4557d6a2cb4cc989",
+    "found": [
+      {
+        "va": "0x000000000000d5b4",
+        "hint": 722,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\usb_device.inf_amd64_ba2220e74295a328\\amd64\\libusb0.sys",
+    "hash": "8058f2afe6ef96a7d2ded432997fd8655970c9ea75a938ee4557d6a2cb4cc989",
+    "found": [
+      {
+        "va": "0x000000000000d5b4",
+        "hint": 722,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\usb_device.inf_amd64_f53888480a69bae1\\amd64\\libusb0.sys",
+    "hash": "8058f2afe6ef96a7d2ded432997fd8655970c9ea75a938ee4557d6a2cb4cc989",
+    "found": [
+      {
+        "va": "0x000000000000d5b4",
+        "hint": 722,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\usbaapl64.inf_amd64_c0e4d8c2aef471b7\\usbaapl64.sys",
+    "hash": "4dec2fc20329f248135da24cb6694fd972dcce8b1bbea8d872fde41939e96aaf",
+    "found": [
+      {
+        "va": "0x000000000000f7b4",
+        "hint": 976,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\usbnet.inf_amd64_9e6bb7a4b7338267\\usbnet.sys",
+    "hash": "0deaaed7b6b6bfb3d96b1354377b9dbc01c44f6a09e72d1620a38296e61adb48",
+    "found": [
+      {
+        "va": "0x000000000000866c",
+        "hint": 234,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\usbport.inf_amd64_254cd5ae09de6b08\\usbhub.sys",
+    "hash": "42404ec0f658121f6553b7daa3511ed512b7f4b336c2032ba85cd91e8879eeae",
+    "found": [
+      {
+        "va": "0x0000000000070c26",
+        "hint": 1433,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\usbport.inf_amd64_254cd5ae09de6b08\\usbport.sys",
+    "hash": "f8be96d3d5dd68ac770587db56dbe5aef3de6438b3fdbcabf019615fb490db92",
+    "found": [
+      {
+        "va": "0x0000000000050ef8",
+        "hint": 1433,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x0000000000051056",
+        "hint": 1431,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\vboxnetadp6.inf_amd64_63ed7cefba175a15\\VBoxNetAdp6.sys",
+    "hash": "ece3ee1a95e03ad5c7210504024f8de0305ea448d5f40e0d61ae4159e7643f5c",
+    "found": [
+      {
+        "va": "0x000000000004f220",
+        "hint": 885,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\vboxnetlwf.inf_amd64_18826d16aa310d9d\\VBoxNetLwf.sys",
+    "hash": "733f99539cc00944d18aa3ba59e3c93daeb28fe003e71b166a02630c2d0a5f41",
+    "found": [
+      {
+        "va": "0x000000000005344c",
+        "hint": 885,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\vboxusb.inf_amd64_2df2b825922f5b60\\VBoxUSB.sys",
+    "hash": "75f680e388ba67ca30b657d3625d6dae6c79277baaa17fdfc5630ef31826aa31",
+    "found": [
+      {
+        "va": "0x00000000000323d6",
+        "hint": 885,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\vbvmauxvaio64_win10.inf_amd64_ff9ed1fa4e7c72f2\\vbaudio_vmauxvaio64_win10.sys",
+    "hash": "d973e54540eb8a49bf3ada385ba04b60d93091ab1242c66f00ddc79e5623e8c6",
+    "found": [
+      {
+        "va": "0x000000000000c304",
+        "hint": 976,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\vbvmvaio64_win10.inf_amd64_ef043bc1a7a2d7fb\\vbaudio_vmvaio64_win10.sys",
+    "hash": "c8d985ad4e3b52a9e2f77f6dde28effb66dac9f607892855e89e87ec269677cf",
+    "found": [
+      {
+        "va": "0x000000000000c304",
+        "hint": 976,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\vhdmp.inf_amd64_174d5f4c303f49a0\\vhdmp.sys",
+    "hash": "9e2bf492d41f558fa13622f0db6156ba9b7bb45dc247194a1c3e0b07e703a325",
+    "found": [
+      {
+        "va": "0x0000000000078792",
+        "hint": 1436,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x0000000000078906",
+        "hint": 1437,
+        "name": "MmMapLockedPagesWithReservedMapping"
+      },
+      {
+        "va": "0x00000000000793ac",
+        "hint": 2768,
+        "name": "ZwMapViewOfSection"
+      }
+    ]
+  },
+  {
+    "name": "drv\\via_usb_modem.inf_amd64_2358dcbee0e9f747\\VIA_USB_MODEM.sys",
+    "hash": "ac86cc8d651a2b12394613a4bb1af1ae77b431e5aaf0d54f391f3c9d7c53c448",
+    "found": [
+      {
+        "va": "0x000000000000a85a",
+        "hint": 885,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\virtdisk.inf_amd64_9a7f42b85c7def50\\bttflt.sys",
+    "hash": "8de3b7c87d88cf375417355a7c5052b2de38805b563d61d0e483db4ad96bd741",
+    "found": [
+      {
+        "va": "0x0000000000009618",
+        "hint": 1431,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\vmci.inf_amd64_5e38a278d114b813\\vmci.sys",
+    "hash": "9fc7f440658f628fcd08f31e874b5ef8567b8cef03282109fe6caf2be56a239b",
+    "found": [
+      {
+        "va": "0x0000000000019ad8",
+        "hint": 1320,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\vmusb.inf_amd64_c603306f7f2b335a\\vmusb.sys",
+    "hash": "e793959c7bbeb12873253b46f432b9b078ec25174d3ad4140de6b08ba649627b",
+    "found": [
+      {
+        "va": "0x000000000000e368",
+        "hint": 1250,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\wdmaudio.inf_amd64_cb639d1f182bc449\\drmk.sys",
+    "hash": "e25e535d8e55d4a6fcd4e234156efe0a5c4b237394b2238f611d5122fa3e0d63",
+    "found": [
+      {
+        "va": "0x000000000000b3a2",
+        "hint": 1434,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\wdmaudio.inf_amd64_cb639d1f182bc449\\portcls.sys",
+    "hash": "e1dd45f0df68f908a15ce9f66abd01625e467acbf9c68062ebc0f13bda3768a4",
+    "found": [
+      {
+        "va": "0x000000000002ffba",
+        "hint": 1434,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\wdmvsc.inf_amd64_8666ee4da6ad6325\\dmvsc.sys",
+    "hash": "6604dc0e7607e46b83f1239934646ac4adf5ca4cc463fb9df521b243f434579b",
+    "found": [
+      {
+        "va": "0x000000000000b9c2",
+        "hint": 1433,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\wgencounter.inf_amd64_f496147578cad554\\vmgencounter.sys",
+    "hash": "da46502c009fd4c847a547610dee2684a5a583467bf76009bd46104aae2f6b1b",
+    "found": [
+      {
+        "va": "0x000000000000516a",
+        "hint": 1431,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\whvcrash.inf_amd64_1173082afb4becfd\\hvcrash.sys",
+    "hash": "a5f6858aa556d9180c303ea3ed02eb6d6d8eb55a100b3918654281a01198d8e8",
+    "found": [
+      {
+        "va": "0x00000000000082f8",
+        "hint": 1433,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\windtun420.inf_amd64_fef6efb45cfbe4be\\windtun420.sys",
+    "hash": "e36fc07fa803a4c949991ab0a16f5059eab1b91bb280f54ebfda2032ae096b92",
+    "found": [
+      {
+        "va": "0x0000000000007782",
+        "hint": 1320,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\wnetvsc.inf_amd64_268e58b44338d192\\netvsc.sys",
+    "hash": "a4ee97a76eac8d0966d262e55029250195ecc4f429f42086aa8e997ac18846f6",
+    "found": [
+      {
+        "va": "0x0000000000034ddc",
+        "hint": 1436,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x0000000000034f2a",
+        "hint": 1434,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\wstorvsp.inf_amd64_c814946c94e609d6\\storvsp.sys",
+    "hash": "9b295349dfdc471c5b0f04e13c40deaea9b51f2123b3321db8a46679120edc31",
+    "found": [
+      {
+        "va": "0x0000000000018596",
+        "hint": 1436,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\wvid.inf_amd64_0ab1ad45d910072b\\Vid.sys",
+    "hash": "bb313e7db32ac8ca3f3849e9cc71f6bc7a654adb46fbfb2414036a85ee31aad6",
+    "found": [
+      {
+        "va": "0x0000000000045b66",
+        "hint": 1432,
+        "name": "MmMapIoSpaceEx"
+      },
+      {
+        "va": "0x000000000004673a",
+        "hint": 1434,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x0000000000046ada",
+        "hint": 1435,
+        "name": "MmMapLockedPagesWithReservedMapping"
+      },
+      {
+        "va": "0x00000000000470be",
+        "hint": 2766,
+        "name": "ZwMapViewOfSection"
+      }
+    ]
+  },
+  {
+    "name": "drv\\wvmbus.inf_amd64_ddd906c20fb3f5c6\\vmbus.sys",
+    "hash": "7a8c71123a368395011cfe3bd75840016bb28e9ef6b23a88bdb384d0846cdbfe",
+    "found": [
+      {
+        "va": "0x0000000000021426",
+        "hint": 1436,
+        "name": "MmMapLockedPagesSpecifyCache"
+      },
+      {
+        "va": "0x00000000000216a0",
+        "hint": 1434,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\wvmbushid.inf_amd64_fd2fe159a9daf508\\VMBusHID.sys",
+    "hash": "43df7a6dd305d1696d28a54e12b75ae041b075e789db5d0c8ddf250e75585aa1",
+    "found": [
+      {
+        "va": "0x0000000000008502",
+        "hint": 234,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\wvmbusr.inf_amd64_116333554779622b\\vmbusr.sys",
+    "hash": "61df173ea5f049839f728d75d44f9c729319234db74cf24548314dff9e2bb6b1",
+    "found": [
+      {
+        "va": "0x000000000002ba80",
+        "hint": 1434,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\wvpci.inf_amd64_f09d7f57f733d44b\\vpci.sys",
+    "hash": "f065e54b5606c59287c5628bceae3557b67de8f203edc6e7a83a7b25a6d424ac",
+    "found": [
+      {
+        "va": "0x000000000000d88e",
+        "hint": 1434,
+        "name": "MmMapIoSpaceEx"
+      }
+    ]
+  },
+  {
+    "name": "drv\\xboxgip.inf_amd64_ad4358a36144c47c\\xboxgip.sys",
+    "hash": "31d39cf82e1e98d367f631cfe5b6c6a42e13c1c01bbaabfe2ca35721627d4e43",
+    "found": [
+      {
+        "va": "0x00000000001281da",
+        "hint": 1436,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\xvdd.inf_amd64_b523a872f297f329\\xvdd.sys",
+    "hash": "35e1e9086f66730dfe2aa38595acb1c3240a42298574086f34d3f0ee9b103ce4",
+    "found": [
+      {
+        "va": "0x00000000000c10c4",
+        "hint": 1434,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  },
+  {
+    "name": "drv\\ykinx64.inf_amd64_0bbd8466b526ef26\\ykinx64.sys",
+    "hash": "823ee97f1eafa80e3d3692ec5cd79e8f0c7ad8222ac96da009ebe9f709555bf8",
+    "found": [
+      {
+        "va": "0x00000000000499ee",
+        "hint": 2101,
+        "name": "ZwMapViewOfSection"
+      },
+      {
+        "va": "0x0000000000049afe",
+        "hint": 1115,
+        "name": "MmMapLockedPagesSpecifyCache"
+      }
+    ]
+  }
+]
