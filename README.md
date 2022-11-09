@@ -1,6 +1,6 @@
 # drv-vuln-scanner
 
-Vulnerable driver scanning tool for win64, put drivers to scan in `drv/`.
+Vulnerable driver scanning tool for win64, put drivers to scan in `drv/`. Finds imports that could be exploited, still requires manual analysis.
 
 # notes
 
